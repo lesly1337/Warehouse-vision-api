@@ -1,0 +1,5 @@
+names:
+  0: box
+path: .
+train: train.txt
+val: val.txt
